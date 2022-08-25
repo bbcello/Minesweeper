@@ -17,7 +17,7 @@ The objective of the game is to clear a rectangular board containing hidden mine
 
 ## Getting Started
 
-link: https://pages.git.generalassemb.ly/sjs2240/project-1/
+[Link](https://bbcello.github.io/Minesweeper/)
 
 1. click the link above
 2. click any tile to start playing Minesweeper!
